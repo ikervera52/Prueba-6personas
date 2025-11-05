@@ -12,4 +12,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public static void funcionUrko() {
+        System.out.println("Función desarrollada por Urko");
+    }
 }

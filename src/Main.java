@@ -12,4 +12,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public static void funcionIkerVera(){
+        System.out.println("Hola Mundo!");
+        System.out.printf("Función creada por Iker Vera");
+    }
 }

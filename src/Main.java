@@ -5,4 +5,7 @@ public class Main {
 
 
     }
+    public static void funcionUrko() {
+        System.out.println("Función desarrollada por Urko");
+    }
 }

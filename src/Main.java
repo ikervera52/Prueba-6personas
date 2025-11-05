@@ -11,4 +11,8 @@ public class Main {
     public static void funcionIkerPoza(){
         System.out.printf("Funcion desarrollada por Iker Poza");
     }
+    public static void funcionIkerVera(){
+        System.out.println("Hola Mundo!");
+        System.out.printf("Función creada por Iker Vera");
+    }
 }
